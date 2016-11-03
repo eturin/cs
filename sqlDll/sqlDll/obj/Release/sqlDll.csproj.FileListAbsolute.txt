@@ -1,0 +1,5 @@
+c:\users\etyurin\documents\visual studio 2013\Projects\sqlDll\sqlDll\bin\Release\sqlDll.dll
+c:\users\etyurin\documents\visual studio 2013\Projects\sqlDll\sqlDll\bin\Release\sqlDll.pdb
+c:\users\etyurin\documents\visual studio 2013\Projects\sqlDll\sqlDll\obj\Release\sqlDll.dll
+c:\users\etyurin\documents\visual studio 2013\Projects\sqlDll\sqlDll\obj\Release\sqlDll.pdb
+c:\users\etyurin\documents\visual studio 2013\Projects\sqlDll\sqlDll\obj\Release\sqlDll.csprojResolveAssemblyReference.cache
